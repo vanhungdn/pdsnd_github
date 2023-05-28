@@ -5,6 +5,7 @@ import numpy as np
 # Refactoring
 =======
 #GITHUB LAB
+#Add change to Documentation
 >>>>>>> documentation
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
